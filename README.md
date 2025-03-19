@@ -1,11 +1,7 @@
-## Hi there 👋
+# Hi there 👋
 
-### Education
+## Education
 
-## two hashtags
+## Work Experience
 
-# one hashtag
-
-### Work Experience
-
-### Projects
+## Projects
